@@ -1,3 +1,3 @@
 #!/bin/bash
-rm -rf /usr/local/bin/arthas
-rm -rf /opt/arthas
+sudo rm -rf /usr/local/bin/arthas
+sudo rm -rf /opt/arthas
