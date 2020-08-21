@@ -5,7 +5,7 @@
 
 ```bash
 
-sudo curl -L https://raw.githubusercontent.com/harvies/arthas-install/master/install_arthas.sh |sh
+sudo curl -L https://cdn.jsdelivr.net/gh/harvies/arthas-install@master/install_arthas.sh |sh
 
 ```
 
@@ -13,6 +13,6 @@ sudo curl -L https://raw.githubusercontent.com/harvies/arthas-install/master/ins
 
 ```bash
 
-sudo curl -L https://raw.githubusercontent.com/harvies/arthas-install/master/uninstall_arthas.sh |sh
+sudo curl -L https://cdn.jsdelivr.net/gh/harvies/arthas-install@master/uninstall_arthas.sh |sh
 
 ```
